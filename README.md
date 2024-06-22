@@ -40,7 +40,7 @@ This project is a desktop application designed to predict whether a person has A
    cd Alzheimer-disease
 3. Install the required packages:
    ```sh
-   Install the required packages:
+   pip install -r requirements.txt:
 4. Run the application:
    ```sh
    python main.py
